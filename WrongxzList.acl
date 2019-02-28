@@ -1498,6 +1498,7 @@
 (^|\.)sexinsex\.net$
 (^|\.)ip138\.net$
 (^|\.)\w*speedtest\w*\.\w*$
+(^|\.)speedtest\.net$
 
 # MyList
 (^|\.)apkmirror\.com$
